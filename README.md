@@ -72,7 +72,7 @@ Secure user session management with logout functionality and session termination
 *Comprehensive guide to tourist attractions and travel destinations*
 
 ### Learn Page
-![Learn Page](screenshots/learn-page.png)
+![Learn Page](learn.png)
 *Educational resources and interactive learning materials*
 
 ### Translate Page
