@@ -80,7 +80,7 @@ Secure user session management with logout functionality and session termination
 *Language translation tools and multilingual support*
 
 ### Contact Page
-![Contact Page](screenshots/contact-page.png)
+![Contact Page](contact.png)
 *Contact information and communication channels*
 
 ### Logout Page
