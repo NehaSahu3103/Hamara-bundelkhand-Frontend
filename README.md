@@ -135,7 +135,7 @@ We welcome contributions to make this platform even better! Here's how you can h
 - **Community Forum**: Platform for users to share experiences and tips
 - **Multilingual Expansion**: Support for additional regional languages
 
-## GitHub Repository
+## 🔗 GitHub Repository
 
 ---
 
