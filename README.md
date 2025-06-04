@@ -68,7 +68,7 @@ Secure user session management with logout functionality and session termination
 *Detailed information about Bundelkhand's rich history and cultural heritage*
 
 ### Tourism Page
-![Tourism Page]()
+![Tourism Page](tourism.png)
 *Comprehensive guide to tourist attractions and travel destinations*
 
 ### Learn Page
