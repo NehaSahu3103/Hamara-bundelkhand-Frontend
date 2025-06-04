@@ -76,7 +76,7 @@ Secure user session management with logout functionality and session termination
 *Educational resources and interactive learning materials*
 
 ### Translate Page
-![Translate Page](translate.png)
+![Translate Page](Translate.png)
 *Language translation tools and multilingual support*
 
 ### Contact Page
