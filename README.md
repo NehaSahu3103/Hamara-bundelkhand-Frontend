@@ -83,9 +83,7 @@ Secure user session management with logout functionality and session termination
 ![Contact Page](contact.png)
 *Contact information and communication channels*
 
-### Logout Page
-![Logout Page](screenshots/logout-page.png)
-*Secure logout functionality and session management*
+
 
 ## 🛠️ Technologies Used
 
