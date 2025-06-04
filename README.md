@@ -64,7 +64,7 @@ Secure user session management with logout functionality and session termination
 *The welcoming home page showcasing Bundelkhand's beauty and main navigation*
 
 ### About Page
-![About Page](screenshots/about-page.png)
+![About Page](about.png)
 *Detailed information about Bundelkhand's rich history and cultural heritage*
 
 ### Tourism Page
