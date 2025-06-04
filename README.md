@@ -60,7 +60,7 @@ Secure user session management with logout functionality and session termination
 ## 🖼️ Screenshots
 
 ### Home Page
-![Home Page](image.png)
+![Home Page](home.png)
 *The welcoming home page showcasing Bundelkhand's beauty and main navigation*
 
 ### About Page
