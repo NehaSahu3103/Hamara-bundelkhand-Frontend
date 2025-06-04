@@ -120,18 +120,6 @@ We welcome contributions to make this platform even better! Here's how you can h
 4. **Feedback**: Report bugs or suggest new features
 5. **Documentation**: Improve existing documentation or add new guides
 
-## 📧 Contact Information
-
-For questions, suggestions, or collaboration opportunities:
-
-- **Email**: [your-email@example.com]
-- **Project Repository**: [GitHub Repository Link]
-- **Website**: [Project Website URL]
-
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Local Communities**: For sharing their knowledge and stories
@@ -147,8 +135,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Community Forum**: Platform for users to share experiences and tips
 - **Multilingual Expansion**: Support for additional regional languages
 
+## GitHub Repository
+
 ---
 
-**Made with ❤️ for the beautiful region of Bundelkhand**
 
-*Preserving Heritage • Promoting Tourism • Connecting Communities*
